@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTest", "MindBoxTest\MindBoxTest.csproj", "{151F8A06-67D7-452F-B911-196CB59B4744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{8CFAEA8D-9C4C-44D2-A9A8-4B68A20279C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151F8A06-67D7-452F-B911-196CB59B4744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151F8A06-67D7-452F-B911-196CB59B4744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151F8A06-67D7-452F-B911-196CB59B4744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151F8A06-67D7-452F-B911-196CB59B4744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFAEA8D-9C4C-44D2-A9A8-4B68A20279C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFAEA8D-9C4C-44D2-A9A8-4B68A20279C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFAEA8D-9C4C-44D2-A9A8-4B68A20279C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFAEA8D-9C4C-44D2-A9A8-4B68A20279C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {084EB7BF-4BB8-4EE5-9E5E-5FA0B710D912}
+	EndGlobalSection
+EndGlobal
